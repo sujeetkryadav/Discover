@@ -1,0 +1,55 @@
+.div-right{
+    float: right;
+    
+    padding-top: 13px;
+}
+.signup-form{
+    padding-top: 37px;
+}
+.form-info-right{
+    float: right;
+}
+.img-row{
+    margin-top: -62px;
+}
+
+.image-upload{
+    padding-top: 96px;
+    padding-left: 48px;
+}
+
+@media only screen and (max-width: 600px) {
+    .img-row{
+        margin-top: 10px;
+        margin-bottom: 32px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .image-upload{
+        padding-top: 14px;
+        padding-left: 24px;
+    }
+    .centered {
+        position: absolute;
+        top: 76%;
+        left: 25% !important;
+        transform: translate(-50%, -50%);
+    }
+}
+@media only screen and (min-width: 481px) and (max-width: 1024px)  {
+    .img-row{
+        margin-top: 10px;
+        margin-bottom: 32px;
+    }
+  }
+
+
+.centered {
+    position: absolute;
+    top: 76%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+}
+
+

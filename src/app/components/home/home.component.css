@@ -1,0 +1,29 @@
+.signup{
+    float: right;
+}
+
+.signup button{
+   width: 335px;
+}
+
+.members{
+    padding-left: 55px;
+}
+.members a{
+    text-decoration: underline;
+}
+.benefit-section{
+    padding-top: 9%;
+}
+.benefit-separator{
+    border-right: 1px solid black;
+}
+.benefit-content{
+    padding:11px;
+    
+}
+.benefit-indicator{
+    padding-left: 27px;
+    padding-bottom: 22px;
+
+}
